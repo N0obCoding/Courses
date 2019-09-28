@@ -1,15 +1,15 @@
-# Noob Coding
+##  Noob Coding
 
 <p align="center">
   <img src="./assets/NoobCoding-500x175.png" width="200">
 </p>
 <p align="center">Community Built Web Development Courses</p>
 
-
-# 🔥 Modules
-* [Introduction to the Web](https://github.com/N0obCoding/Introduction-to-the-web)
-* Expanding on Javascript
-* Expanding on HTML and CSS
-* Introduction to VueJS
-* Introduction to NodeJs
-* Introduction to Web Services
+---
+### Modules
+1. [Introduction to the Web](https://github.com/N0obCoding/Introduction-to-the-web)
+2. Expanding on Javascript
+3. Expanding on HTML and CSS
+4. Introduction to VueJS
+5. Introduction to NodeJs
+6. Introduction to Web Services
